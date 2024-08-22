@@ -1,0 +1,4 @@
+learning_rate: 0.001
+num_classes: 13
+unfreeze_layers: 4
+weights: DEFAULT
